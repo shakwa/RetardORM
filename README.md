@@ -1,4 +1,4 @@
-#EasyCRUD
+# RetardORM
 
 RetardORM is a class which you can use to easily execute basic SQL operations like(insert, update, select, delete) on your database. 
 It uses the database class you've created to execute the SQL queries.
